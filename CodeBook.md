@@ -1,7 +1,7 @@
 # CodeBook.md
 
 ## Description
-This contains additional information about the data and its variables. Also contains the steps followed in detail to process the raw data to convert it into tidy data
+This contains additional information about the data. Also contains the steps followed in detail to process the raw data to convert it into tidy data
 
 ## Information about Data
 **Abstract** - Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
