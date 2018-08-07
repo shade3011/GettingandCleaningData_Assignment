@@ -1,6 +1,9 @@
 #Library
 library(dplyr)
 
+#Set working directory
+setwd("G:/My Drive/Sharan Biradar/Learning/Coursera/Data Science Specialisation/3. Getting and Cleaning Data/Assignments")
+
 #Download the data
 download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip",
               "UCI HAR Dataset.zip")
