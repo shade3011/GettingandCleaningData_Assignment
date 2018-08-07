@@ -17,7 +17,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
 ## Code Execution - How to run it?
-1. Download the **Peer Graded Assignment - Run_Analysis.R** code into the folder
+1. Download the **Run_Analysis.R** code into the folder
 2. Change the R working directory to the folder's working directory using setwd() command
 3. Execute the code to get the tidy data
 
